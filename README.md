@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 
 
 <!--
-**laurahmaxenn/laurahmaxenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**laurahmaxenn/laurahmaxenn** is a ✨ _special_ ✨ repository
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Looking towards the stars
+- 🌱 I’m currently learning JavaScript, CSS, HTML, PHP, CMS, MySQL
+- 👯 I’m studying UX & Web Design
+- 🤔 Let's think more
+- 💬 Celebrate the small wins
+- 📫 Melbourne, Australia
+- 😄 Mexican food, Late nights, Walks at the Markets, Sunrises
+- ⚡ Fun fact: I pull all nighters so I can enjoy some alone time
 -->
